@@ -1,0 +1,31 @@
+{
+  "name": "Zombie Rocker #1",
+  "description": "A wild zombie rockstar shredding a neon pink electric guitar under bright concert spotlights.",
+  "image": "ipfs://bafybeihkehmwq2w6ffli23rnnufzl7mixu7bfsmsw2k7j4yzg4eho356fa",
+  "attributes": [
+    {
+      "trait_type": "Character",
+      "value": "Zombie"
+    },
+    {
+      "trait_type": "Hair",
+      "value": "Spiky Purple Punk"
+    },
+    {
+      "trait_type": "Outfit",
+      "value": "Ripped Jeans & Black Leather Jacket"
+    },
+    {
+      "trait_type": "Weapon of Choice",
+      "value": "Pink Electric Guitar"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Stage Spotlight Glow"
+    },
+    {
+      "trait_type": "Style",
+      "value": "Comic Book Cartoon"
+    }
+  ]
+}

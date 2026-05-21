@@ -1,0 +1,23 @@
+{
+  "name": "Cute Chibi Tiger #1",
+  "description": "An adorable chibi-style baby tiger with big blue eyes.",
+  "image": "ipfs://bafkreieu4qoiflnjidq5ud7rq6yvxmjtncgjfljt46joswbvos6ybtv654",
+  "attributes": [
+    {
+      "trait_type": "Species",
+      "value": "Tiger"
+    },
+    {
+      "trait_type": "Style",
+      "value": "Cute Chibi Anime"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Big Sparkly Blue"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Pastel Pink with Stars"
+    }
+  ]
+}

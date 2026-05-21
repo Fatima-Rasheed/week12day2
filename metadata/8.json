@@ -1,0 +1,27 @@
+{
+  "name": "Alien DJ #1",
+  "description": "A green extra-terrestrial creature dropping beats on a neon turntable at a cyberpunk club party.",
+  "image": "ipfs://bafkreicermwhwhc7dfss4e2qmcwwfxrdysq3p7qvbmxej7foom5iuwgule",
+  "attributes": [
+    {
+      "trait_type": "Species",
+      "value": "Grey-Green Alien"
+    },
+    {
+      "trait_type": "Outfit",
+      "value": "Dark Tech Jacket with Stripes"
+    },
+    {
+      "trait_type": "Accessory",
+      "value": "Over-Ear DJ Headphones"
+    },
+    {
+      "trait_type": "Activity",
+      "value": "Mixing on Neon Turntables"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Vibrant Purple and Pink Concert Lights"
+    }
+  ]
+}

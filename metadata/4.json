@@ -1,0 +1,23 @@
+{
+  "name": "Fire Dragon #1",
+  "description": "A majestic black dragon standing tall with wings made of pure fire.",
+  "image": "ipfs://bafybeicvdgdkv4sroznhqqiuya4e7m5oahocxifuqfomjocxsko3apvytq",
+  "attributes": [
+    {
+      "trait_type": "Creature",
+      "value": "Dragon"
+    },
+    {
+      "trait_type": "Wings",
+      "value": "Blazing Fire"
+    },
+    {
+      "trait_type": "Pose",
+      "value": "Perched on Stone Pillar"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Smoky Volcanic Night"
+    }
+  ]
+}

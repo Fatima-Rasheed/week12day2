@@ -1,0 +1,27 @@
+{
+  "name": "Cyber Hooded Cat #1",
+  "description": "A mysterious black cat wearing a cyberpunk hoodie with fiery orange eyes.",
+  "image": "ipfs://bafkreigcymhohiv4ijo5k2ij4ry7xvsevx5y47baz4ds3hky7hw5wbyjjy",
+  "attributes": [
+    {
+      "trait_type": "Species",
+      "value": "Black Cat"
+    },
+    {
+      "trait_type": "Outfit",
+      "value": "Dark Techwear Hoodie"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Fiery Orange/Red"
+    },
+    {
+      "trait_type": "Accents",
+      "value": "Neon Pink Highlights"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Solid Dark Grey"
+    }
+  ]
+}

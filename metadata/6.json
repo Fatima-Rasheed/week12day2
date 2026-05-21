@@ -1,0 +1,31 @@
+{
+  "name": "Jungle Explorer #1",
+  "description": "A cheerful cartoon boy equipped with a backpack and a wide safari hat, exploring the dense green jungle.",
+  "image": "ipfs://bafybeicodeigtafpn562csoxulwi3r25qnipn6fnf5qafuwrudrzulk2jq",
+  "attributes": [
+    {
+      "trait_type": "Character",
+      "value": "Explorer Boy"
+    },
+    {
+      "trait_type": "Headwear",
+      "value": "Beige Safari Hat"
+    },
+    {
+      "trait_type": "Outfit",
+      "value": "Yellow Adventure Shirt & Blue Shorts"
+    },
+    {
+      "trait_type": "Accessory",
+      "value": "Utility Belt and Backpack"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Tropical Jungle Leaves"
+    },
+    {
+      "trait_type": "Style",
+      "value": "Sticker Vector Cartoon"
+    }
+  ]
+}

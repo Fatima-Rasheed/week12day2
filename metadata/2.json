@@ -1,0 +1,27 @@
+{
+  "name": "Hypebeast Chimp #1",
+  "description": "A cool chimpanzee rocking streetwear fashion and gold chains.",
+  "image": "ipfs://bafybeig4qll2etm66qsqmgybqhbx2b5hyxvokesqfmey4wmy5yhjfwarsq",
+  "attributes": [
+    {
+      "trait_type": "Species",
+      "value": "Chimpanzee"
+    },
+    {
+      "trait_type": "Outfit",
+      "value": "Purple Leopard Print Hoodie"
+    },
+    {
+      "trait_type": "Eyewear",
+      "value": "Gold Rimmed Sunglasses"
+    },
+    {
+      "trait_type": "Accessory",
+      "value": "Double Gold and Silver Chains"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Colorful Pop Art Splash"
+    }
+  ]
+}

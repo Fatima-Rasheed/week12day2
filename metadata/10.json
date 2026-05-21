@@ -1,0 +1,27 @@
+{
+  "name": "Sand Nomad #1",
+  "description": "A fierce desert warrior clad in golden chainmail armor and a protective sand veil hood.",
+  "image": "ipfs://bafybeifzyal5ntusqfgqpjj56wnljhqh3rg5tnibssmw5yhlpmvmmi3xmy",
+  "attributes": [
+    {
+      "trait_type": "Character",
+      "value": "Desert Guardian"
+    },
+    {
+      "trait_type": "Armor",
+      "value": "Polished Gold Plated Suit"
+    },
+    {
+      "trait_type": "Face Cover",
+      "value": "Golden Scale Mask & Hood"
+    },
+    {
+      "trait_type": "Theme",
+      "value": "Dune Nomad"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Sun-Drenched Desert Dunes"
+    }
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "name": "Steampunk Owl #1",
+  "description": "A wise majestic owl integrated with brass gears and detailed steampunk aviator goggles.",
+  "image": "ipfs://bafybeigo2y27xqvsjszarrlqcfnlldqrpbr4gyoe2yrifd2wnu6ii5i7jm",
+  "attributes": [
+    {
+      "trait_type": "Species",
+      "value": "Horned Owl"
+    },
+    {
+      "trait_type": "Eyewear",
+      "value": "Brass Steampunk Goggles"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Amber Mechanical"
+    },
+    {
+      "trait_type": "Theme",
+      "value": "Steampunk / Industrial"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Vintage Rotating Metallic Gears"
+    }
+  ]
+}

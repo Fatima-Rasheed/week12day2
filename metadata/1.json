@@ -1,0 +1,23 @@
+{
+  "name": "Matrix Hacker #1",
+  "description": "An anonymous hacker figure wearing a Guy Fawkes mask against a green digital rain background.",
+  "image": "ipfs://bafkreicwn4vg4h6jtckngfvo5y2eskodnytsf5rxer5osfxwsm57wx3w4e",
+  "attributes": [
+    {
+      "trait_type": "Mask",
+      "value": "Guy Fawkes"
+    },
+    {
+      "trait_type": "Outfit",
+      "value": "Black Hoodie"
+    },
+    {
+      "trait_type": "Background",
+      "value": "Green Code Digital Rain"
+    },
+    {
+      "trait_type": "Theme",
+      "value": "Anonymous"
+    }
+  ]
+}
